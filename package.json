@@ -1,0 +1,17 @@
+{
+  "name": "tolog",
+  "version": "0.0.1",
+  "description": "Sends messages to a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Walter F. Hahn",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
