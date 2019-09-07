@@ -44,10 +44,10 @@ tolog.end();
 
 ## Options
 
-| Option       | Default  |                                                         |
-| ------------ | -------- | ------------------------------------------------------- |
-| logToConsole | False    | value.  If true, messages will log to file and console. |
-| path         | ./to.log | File path of log file.                                  |
+| Option       | Default  |                                                 |
+| ------------ | -------- | ----------------------------------------------- |
+| logToConsole | false    | If true, messages will log to file and console. |
+| path         | ./to.log | File path of log file.                          |
 
 
 
