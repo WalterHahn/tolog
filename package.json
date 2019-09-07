@@ -2,10 +2,17 @@
   "name": "tolog",
   "version": "0.0.1",
   "description": "Sends messages to a file.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WalterHahn/tolog"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "log"
+  ],
   "author": "Walter F. Hahn",
   "license": "MIT",
   "dependencies": {
