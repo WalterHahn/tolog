@@ -1,5 +1,5 @@
 {
-  "name": "tolog",
+  "name": "@darthhahn/tolog",
   "version": "0.0.1",
   "description": "Sends messages to a file.",
   "repository": {
