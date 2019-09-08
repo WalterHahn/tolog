@@ -2,7 +2,11 @@
 
 Logs messages to files.
 
+## Installation
 
+```javascript
+npm install @darthhahn/tolog
+```
 
 ## Usage
 
